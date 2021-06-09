@@ -9,7 +9,8 @@
 Nick Sciarrilli, Raja Jain, Joshua Dobbinsj
 
 final_project.ipynb contains the primary analysis and modeling  
-raja_viz.ipynb and raja_viz_2.ipynb have the code for additional supporting visualizations  
-The output from the raja_viz notebooks can be found in raja_viz_final - Jupyter Notebook.pdf
+raja_viz.ipynb has code to generate additional visualizations, however, the plots do not render in a notebook without a live kernel. 
+In place of the plots in the additional notebook, a PDF of the Jupyter Notebook has been added which shows the plots.
+
 
 Binder Link: https://mybinder.org/v2/gh/sciarrilli/TOOL1_FINAL_PROJECT/HEAD
